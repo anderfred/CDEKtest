@@ -6,7 +6,11 @@
 
 Тестировалось на Win10, Сервер MySql  5 на vscale ubuntu 16.
 
-Данные для подключения к БД DB:
+Данные для подключения к БД:
+
 spring.datasource.url=jdbc:mysql://31.184.255.141/test
+
 spring.datasource.username=fred
+
 spring.datasource.password=19881988
+
